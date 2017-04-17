@@ -7,7 +7,7 @@ The reference images provided in this project represent ground truth for the AFF
 \AFF4PreStd\	- This folder contains reference images produced prior to the definition of the AFF4 Standard v1.0 (Evimetry 2.x)
 
  For an explanation of the images see the README under the folders. 
- More detail on the standard will be found at http://aff4.org/standard/ shortly.
+ More detail on the standard can be found at https://github.com/aff4/Standard .
  
 
 
