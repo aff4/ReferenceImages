@@ -4,6 +4,8 @@ The reference images provided in this project represent ground truth for the AFF
 
 \AFF4Std\ 		- This folder contains the AFF4 Canonical Reference Images v1.0 (produced by Evimetry 3.0)
 
+\Errata\ 		- This folder contains Standard v1.0 test images which exercise implementation edge cases.
+
 \AFF4PreStd\	- This folder contains reference images produced prior to the definition of the AFF4 Standard v1.0 (Evimetry 2.x)
 
  For an explanation of the images see the README under the folders. 

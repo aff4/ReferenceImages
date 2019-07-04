@@ -1,0 +1,14 @@
+Explanation of Base-ExabyteSparse.aff4
+
+This is an image that is 9 exabytes (EB) in size, meant to exercise AFF4 consumers who will
+be supporting APFS CoreStorage images, which appear to be in the EB size range. 
+
+Image structure:
+
+0x0					1M of 0xFF
+					Sparse/Unknown
+0x400000000000000	A small filesystem image
+					Sparse/Unknown
+0x7fffffffffeffe00	1M of 0xFF
+0x7ffffffffffffe00	Image end
+
